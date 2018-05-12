@@ -1,0 +1,3 @@
+rootProject.name = 'Wedine'
+
+include ':app'
